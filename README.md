@@ -8,7 +8,7 @@ Download the separately supplied `Duplicard-1.1.2-test.apk` to your Android phon
 
 ## Open in Android Studio
 
-1. Extract the ZIP to a permanent folder such as `C:\Users\Ivar\AndroidStudioProjects\Duplicard`.
+1. Extract the ZIP to a permanent folder.
 2. Choose **Open** in Android Studio and select the folder containing `settings.gradle.kts`. Do not create another project or copy it into a template.
 3. Allow Gradle sync and installation of **Android SDK Platform 35** and **Build Tools 35.0.0**. First-time dependency downloads require Internet.
 4. Under **Settings → Build, Execution, Deployment → Build Tools → Gradle**, select **JDK 17** for Gradle JDK. Use the IDE's **Download JDK** option if necessary.
