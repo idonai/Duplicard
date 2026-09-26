@@ -1,0 +1,1 @@
+Duplicard 1.1.2 is complete and saved. UPC-E detection requires a valid 0/1 number-system prefix, preventing crashes while typing ordinary seven-digit values. Camera scanning still requires three identical consecutive reads. Fresh tests, release build, lint and signature checks pass.

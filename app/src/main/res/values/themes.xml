@@ -1,0 +1,3 @@
+<resources><style name="Theme.Duplicard" parent="android:style/Theme.Material.Light.NoActionBar">
+ <item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item><item name="android:colorAccent">#245B48</item><item name="android:windowActionModeOverlay">true</item><item name="android:windowBackground">#F7F8F2</item>
+</style></resources>

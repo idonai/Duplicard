@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.duplicard.wallet.BackupCodecTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-09-17T09:02:38" hostname="localhost" time="0.088">
+  <properties/>
+  <testcase name="malformedBackupNeverReturnsPartialCards" classname="nl.duplicard.wallet.BackupCodecTest" time="0.043"/>
+  <testcase name="roundTripPreservesFormatsAndColors" classname="nl.duplicard.wallet.BackupCodecTest" time="0.017"/>
+  <testcase name="importsLegacyVersionOneWithDefaults" classname="nl.duplicard.wallet.BackupCodecTest" time="0.001"/>
+  <testcase name="roundTripPreservesNamesNumbersAndOrder" classname="nl.duplicard.wallet.BackupCodecTest" time="0.001"/>
+  <testcase name="boundsInputBeforeParsing" classname="nl.duplicard.wallet.BackupCodecTest" time="0.006"/>
+  <testcase name="rejectsDuplicateLocalIds" classname="nl.duplicard.wallet.BackupCodecTest" time="0.001"/>
+  <testcase name="boundedStreamRejectsOversizedFiles" classname="nl.duplicard.wallet.BackupCodecTest" time="0.018"/>
+  <testcase name="rejectsMalformedUtf8" classname="nl.duplicard.wallet.BackupCodecTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

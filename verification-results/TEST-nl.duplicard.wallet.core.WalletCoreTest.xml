@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.duplicard.wallet.core.WalletCoreTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-09-17T09:02:38" hostname="localhost" time="0.006">
+  <properties/>
+  <testcase name="walletRules" classname="nl.duplicard.wallet.core.WalletCoreTest" time="0.006"/>
+  <system-out><![CDATA[PASS: 48 core checks
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

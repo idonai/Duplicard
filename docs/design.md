@@ -1,0 +1,4 @@
+# Duplicard design
+Approved: native Kotlin Compose wallet for Android 8+, built from scratch with import/export. Offline atomic storage; add/edit/delete; camera scan; automatic or explicit barcode selection; EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, ITF and QR rendering; preset/custom card colors; bright checkout view; and drag/accessibility reordering. Codes stay black on white for scan reliability. No account, server or Internet permission.
+
+Version-2 JSON stores format and `#RRGGBB` color. Version-1 EAN-13 backups migrate with the default green. Imports use the system picker, enforce 2 MiB/2,000-card limits, validate everything before merge, preserve existing cards, skip duplicate format/content pairs and assign new IDs. Editor fields and document results survive process recreation. Unreadable storage disables mutations. Backups contain plaintext card data. Physical-phone validation remains required.
